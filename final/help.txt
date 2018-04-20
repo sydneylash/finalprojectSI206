@@ -1,0 +1,5 @@
+The first thing that the user will be asked for is to enter a command. The user must enter the word category, followed by the category type (broadway, off-broadway, musical, play, etc.) and the shows in the category will be returned. From there, the user may enter another command “info” followed by the number of whatever show they are seeking information about. This will then give the user the runtime, preview date, and opening date of the selected show.
+
+Next, if the user enters 1, plotly will be prompted to display a bar graph of the shows by their opening year. If the user enters 2, plotly will prompt a pie chart of shows by their runtime.If the user enters 3, plotly will prompt a scatter plot of the shows by their runtime and show time. Lastly, if the user enters 4, plotly will prompt a bar graph of the shows by their preview month.
+
+If the user wishes to exit the code, he or she will simply type "exit."
