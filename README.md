@@ -1,7 +1,5 @@
 # finalprojectSI206
 
-# finalprojectSI206
-
 1.	Data sources used, including instructions for a user to access the data sources (e.g., API keys or client secrets needed, along with a pointer to instructions on how to obtain these and instructions for how to incorporate them into your program (e.g., secrets.py file format))
 
 	I chose to use Broadway.com for this project, where I crawled and scraped multiple pages in this site. I have not used this site before. The link for the website is https://www.broadway.com/. 
