@@ -10,7 +10,7 @@ jsonschema==2.6.0
 jupyter-core==4.4.0
 lxml==4.1.1
 nbformat==4.4.0
-nltk==3.2.5
+nltk==3.4.5
 oauthlib==2.0.6
 plotly==2.4.1
 PySocks==1.6.8
